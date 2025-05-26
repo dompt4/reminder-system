@@ -41,7 +41,3 @@ Authorization: Bearer <JWT>
 
 ## หมายเหตุ
 ระบบยังไม่รวมระบบส่งแจ้งเตือนจริง เช่น Email หรือ Line Notify (สามารถต่อยอดได้)
-
----
-
-ติดต่อผู้พัฒนา: [your-email@example.com]
